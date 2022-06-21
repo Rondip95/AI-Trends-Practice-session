@@ -1,0 +1,1 @@
+Linear regression is a supervised machine-learning regression algorithm. That's a mouthful! Let's break it down: Supervised machine learning: supervised learning techniques train the model by providing it with pairs of input-output examples from which it can learn.
