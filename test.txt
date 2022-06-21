@@ -1,2 +1,2 @@
 Hello,
-I am learning GIT and GITHub.
+I am learning GIT and GITHub along with my batchmate.
